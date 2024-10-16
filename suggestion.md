@@ -1,0 +1,12 @@
+these are the dependencies that i have used to write backend
+
+"dependencies": {
+"bcrypt": "^5.1.1",
+"cors": "^2.8.5",
+"dotenv": "^16.4.5",
+"express": "^4.21.1",
+"jsonwebtoken": "^9.0.2",
+"mongoose": "^8.7.1",
+"nodemailer": "^6.9.15",
+"nodemon": "^3.1.7"
+}
